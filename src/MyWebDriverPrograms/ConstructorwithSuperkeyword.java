@@ -7,7 +7,7 @@ public class ConstructorwithSuperkeyword extends ConstructorConcept {
 	// Must use super keyword only inside child class constructor
 	// Call to Super() method must be the first statement
 
-		super("Ananth", 40);
+		super("Jay", 40);
 		System.out.println("Child class Constructor 'ConstructorwithSuperkeyword' ");
 		System.out.println("Name :" +name);
 		System.out.println("Age :" +Age);
